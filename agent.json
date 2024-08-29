@@ -1,0 +1,27 @@
+{
+    "Technical issue":{
+        "0":"tech_agent0",
+        "1":"tech_agent1",
+        "2":"tech_agent2"
+    }, 
+    "Billing inquiry":{
+        "0":"billing_agent0",
+        "1":"billing_agent",
+        "2":"billing_agent2"
+    }, 
+    "Cancellation request":{
+        "0":"cancellation_agent0",
+        "1":"cancellation_agent1",
+        "2":"cancellation_agent2"
+    }, 
+    "Product inquiry":{
+        "0":"product_agent0",
+        "1":"product_agent1",
+        "2":"product_agent2"
+    }, 
+    "Refund request":{
+        "0":"refund_agent0",
+        "1":"refund_agent1",
+        "2":"refund_agent2"
+    }
+}
